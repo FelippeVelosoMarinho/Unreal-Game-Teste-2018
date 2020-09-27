@@ -1,0 +1,1145 @@
+﻿Log file open, 05/19/18 14:51:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BLOCAGEMCENARIO
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(342493720) SRandInit(342493720).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259042
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  6.111s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am LAB-D08 (192.168.1.243:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.19-17.51.02:402][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.19-17.51.02:402][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.19-17.51.02:661][  0]LogInit: Computer: LAB-D08
+[2018.05.19-17.51.02:661][  0]LogInit: User: Aluno
+[2018.05.19-17.51.02:661][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.19-17.51.02:661][  0]LogInit: High frequency timer resolution =3.312832 MHz
+[2018.05.19-17.51.02:662][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.05.19-17.51.02:662][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.19-17.51.02:662][  0]LogMemory: Process Physical Memory: 277.25 MB used, 277.25 MB peak
+[2018.05.19-17.51.02:662][  0]LogMemory: Process Virtual Memory: 268.09 MB used, 268.09 MB peak
+[2018.05.19-17.51.02:662][  0]LogMemory: Physical Memory: 2478.63 MB used,  5675.97 MB free, 8154.60 MB total
+[2018.05.19-17.51.02:662][  0]LogMemory: Virtual Memory: 649.36 MB used,  5675.97 MB free, 8388608.00 MB total
+[2018.05.19-17.51.02:685][  0]LogInit: Using OS detected language (pt-BR).
+[2018.05.19-17.51.02:685][  0]LogInit: Using OS detected locale (pt-BR).
+[2018.05.19-17.51.03:078][  0]LogStreaming: Display: Took  0.393s to EndInitTextLocalization.
+[2018.05.19-17.51.03:079][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.05.19-17.51.03:079][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.05.19-17.51.03:079][  0]LogInit: Setting process to DPI aware
+[2018.05.19-17.51.03:092][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.05.19-17.51.03:092][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.05.19-17.51.03:092][  0]LogInit: Setting process to DPI aware
+[2018.05.19-17.51.03:109][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.19-17.51.03:109][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.19-17.51.03:283][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.19-17.51.03:298][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 550 Ti' (Feature Level 11_0)
+[2018.05.19-17.51.03:298][  0]LogD3D11RHI:       977/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.19-17.51.03:298][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.19-17.51.03:302][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.19-17.51.03:303][  0]LogD3D11RHI:     GPU DeviceId: 0x1244 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.19-17.51.03:303][  0]LogWindows: EnumDisplayDevices:
+[2018.05.19-17.51.03:303][  0]LogWindows:    0. 'NVIDIA GeForce GTX 550 Ti' (P:1 D:1)
+[2018.05.19-17.51.03:303][  0]LogWindows:    1. 'NVIDIA GeForce GTX 550 Ti' (P:0 D:0)
+[2018.05.19-17.51.03:303][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2018.05.19-17.51.03:303][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.05.19-17.51.03:303][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.05.19-17.51.03:303][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2018.05.19-17.51.03:303][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 550 Ti
+[2018.05.19-17.51.03:303][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2018.05.19-17.51.03:303][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2018.05.19-17.51.03:303][  0]LogRHI: Texture pool is 683 MB (70% of 977 MB)
+[2018.05.19-17.51.03:310][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.05.19-17.51.03:311][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.19-17.51.03:311][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.19-17.51.03:311][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.19-17.51.03:326][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.19-17.51.03:327][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (D:/BLOCAGEMCENARIO 4.19 - 2/Intermediate/Shaders/WorkingDirectory/4860/).
+[2018.05.19-17.51.03:328][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aluno/AppData/Local/Temp/UnrealShaderWorkingDir/A470D7044471FE1B44A6099EA47E152B/'.
+[2018.05.19-17.51.03:516][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.19-17.51.03:535][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.19-17.51.03:554][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.19-17.51.03:573][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.19-17.51.03:594][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.19-17.51.03:613][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.19-17.51.03:637][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.19-17.51.03:657][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.19-17.51.03:680][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.19-17.51.03:697][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.19-17.51.03:715][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.19-17.51.03:735][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.19-17.51.03:754][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.19-17.51.03:772][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.19-17.51.03:789][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.19-17.51.03:826][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.19-17.51.03:826][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.19-17.51.03:844][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.19-17.51.03:845][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.19-17.51.03:886][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.19-17.51.03:913][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.19-17.51.03:930][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.19-17.51.03:948][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.19-17.51.03:966][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.19-17.51.03:984][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.19-17.51.03:984][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.19-17.51.04:071][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.19-17.51.04:071][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.19-17.51.04:071][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.19-17.51.04:806][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.19-17.51.04:908][  0]LogDerivedDataCache: Loaded boot cache 0.10s 74MB C:/Users/Aluno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.19-17.51.04:908][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aluno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.19-17.51.04:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/BLOCAGEMCENARIO 4.19 - 2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.19-17.51.04:908][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.19-17.51.04:908][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/BLOCAGEMCENARIO 4.19 - 2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.19-17.51.04:909][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.19-17.51.04:927][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.19-17.51.04:938][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aluno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.19-17.51.04:953][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.19-17.51.04:954][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.19-17.51.04:954][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.19-17.51.04:954][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.19-17.51.05:063][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2018.05.19-17.51.08:885][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.19-17.51.09:037][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.19-17.51.09:038][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.19-17.51.09:038][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.19-17.51.09:038][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.19-17.51.09:038][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.19-17.51.09:038][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.19-17.51.09:064][  0]LogNetVersion: BLOCAGEMCENARIO , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 643397364)
+[2018.05.19-17.51.13:562][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 4.055769 seconds
+[2018.05.19-17.51.13:569][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.19-17.51.13:569][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.19-17.51.13:569][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.19-17.51.16:371][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.19-17.51.16:394][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.19-17.51.16:700][  0]SourceControl: Controle de origem desativado
+[2018.05.19-17.51.16:700][  0]SourceControl: Controle de origem desativado
+[2018.05.19-17.51.16:713][  0]SourceControl: Controle de origem desativado
+[2018.05.19-17.51.16:736][  0]SourceControl: Controle de origem desativado
+[2018.05.19-17.51.17:148][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.19-17.51.17:247][  0]LogOcInput: OculusInput pre-init called
+[2018.05.19-17.51.17:344][  0]LogEngine: Initializing Engine...
+[2018.05.19-17.51.17:345][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.19-17.51.17:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.19-17.51.17:347][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.19-17.51.17:659][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.19-17.51.17:681][  0]LogInit: No audio devices found!
+[2018.05.19-17.51.17:816][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/Aluno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.19-17.51.17:841][  0]LogInit: Texture streaming: Enabled
+[2018.05.19-17.51.17:860][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.19-17.51.17:868][  0]LogInit: Transaction tracking system initialized
+[2018.05.19-17.51.17:889][  0]BlueprintLog: New page: Carregar Editor
+[2018.05.19-17.51.17:974][  0]LocalizationService: Localization service is disabled
+[2018.05.19-17.51.18:136][  0]LogConsoleResponse: Display: 
+[2018.05.19-17.51.18:323][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.19-17.51.18:323][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.19-17.51.18:323][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.19-17.51.18:323][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.19-17.51.18:323][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.19-17.51.18:612][  0]LogFileCache: Scanning file cache for directory 'D:/BLOCAGEMCENARIO 4.19 - 2/Content/' took 0.04s
+[2018.05.19-17.51.18:612][  0]SourceControl: Controle de origem desativado
+[2018.05.19-17.51.18:612][  0]Cmd: MAP LOAD FILE="D:/BLOCAGEMCENARIO 4.19 - 2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.19-17.51.18:633][  0]LightingResults: New page: Compilação de Iluminação
+[2018.05.19-17.51.18:636][  0]MapCheck: New page: Verificação de Mapa
+[2018.05.19-17.51.18:636][  0]LightingResults: New page: Compilação de Iluminação
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Shoes_Gloss (AutoDXT, 1024X1024)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Bottom_Opacity (AutoDXT, 1024X1024)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Bottom_Specular (AutoDXT, 1024X1024)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Shoes_Normal (BC5, 1024X1024)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Shoes_Diffuse (AutoDXT, 1024X1024)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Bottom_Normal (BC5, 1024X1024)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Bottom_Gloss (AutoDXT, 1024X1024)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Bottom_Diffuse (AutoDXT, 1024X1024)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Body_Opacity (AutoDXT, 2048X2048)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Body_Specular (AutoDXT, 2048X2048)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Body_Normal (BC5, 2048X2048)
+[2018.05.19-17.51.29:473][  0]LogTexture: Display: Building textures: Douglas_Top_Specular (AutoDXT, 1024X1024)
+[2018.05.19-17.51.29:570][  0]LogTexture: Display: Building textures: Douglas_Body_Gloss (AutoDXT, 2048X2048)
+[2018.05.19-17.51.29:571][  0]LogTexture: Display: Building textures: Douglas_Top_Opacity (AutoDXT, 1024X1024)
+[2018.05.19-17.51.29:571][  0]LogTexture: Display: Building textures: Douglas_Shoes_Specular (AutoDXT, 1024X1024)
+[2018.05.19-17.51.30:274][  0]LogTexture: Display: Building textures: Douglas_Body_Diffuse (AutoDXT, 2048X2048)
+[2018.05.19-17.51.30:274][  0]LogTexture: Display: Building textures: Douglas_Top_Normal (BC5, 1024X1024)
+[2018.05.19-17.51.30:274][  0]LogTexture: Display: Building textures: foco_Base_Color (AutoDXT, 1024X1024)
+[2018.05.19-17.51.30:274][  0]LogTexture: Display: Building textures: fe0b6a9f2f00b4d44546cd5fb59ef33d--parchment-design-teal-blue (BGRA8, 736X981)
+[2018.05.19-17.51.30:274][  0]LogTexture: Display: Building textures: Douglas_Shoes_Opacity (AutoDXT, 1024X1024)
+[2018.05.19-17.51.30:542][  0]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.05.19-17.51.30:623][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.05.19-17.51.30:623][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.05.19-17.51.30:623][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.05.19-17.51.30:623][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.19-17.51.30:623][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.05.19-17.51.30:623][  0]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.05.19-17.51.33:153][  0]LogTexture: Display: Building textures: cama1_Base_Color (AutoDXT, 1024X1024)
+[2018.05.19-17.51.33:153][  0]LogTexture: Display: Building textures: armario2_base_color_pronto (AutoDXT, 1024X1024)
+[2018.05.19-17.51.33:153][  0]LogTexture: Display: Building textures: SpecularMap (AutoDXT, 720X720)
+[2018.05.19-17.51.33:153][  0]LogTexture: Display: Building textures: NormalMap (BC5, 720X720)
+[2018.05.19-17.51.33:153][  0]LogTexture: Display: Building textures: armario1_Base_Color (AutoDXT, 1024X1024)
+[2018.05.19-17.51.33:153][  0]LogTexture: Display: Building textures: DisplacementMap (AutoDXT, 720X720)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: AmbientOcclusionMap (AutoDXT, 720X720)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: ab739d5653829af07f26b9c96efcf191--wood-floor-texture-texture-design (AutoDXT, 720X720)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: LIVROSpecularMap (AutoDXT, 236X236)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: LIVRONormalMap (BC5, 236X236)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: LIVROAmbientOcclusionMap (AutoDXT, 236X236)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: -books (AutoDXT, 236X236)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2018.05.19-17.51.33:154][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.05.19-17.51.37:270][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.05.19-17.51.37:270][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.05.19-17.51.37:270][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.05.19-17.51.37:270][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2018.05.19-17.51.37:270][  0]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.05.19-17.51.37:270][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2018.05.19-17.51.37:270][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.05.19-17.51.37:270][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.05.19-17.51.37:270][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.05.19-17.51.37:270][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.05.19-17.51.37:270][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.05.19-17.51.37:270][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2018.05.19-17.51.38:125][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.05.19-17.51.38:125][  0]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 512X256)
+[2018.05.19-17.51.38:125][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2018.05.19-17.51.38:125][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.05.19-17.51.38:125][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X512)
+[2018.05.19-17.51.38:125][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2018.05.19-17.51.38:125][  0]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.05.19-17.51.38:192][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.05.19-17.51.38:193][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2018.05.19-17.51.38:193][  0]LogSkeletalMesh: Building Skeletal Mesh Idle...
+[2018.05.19-17.51.38:345][  0]LogTexture: Display: Building textures: textura-do-tapete-vermelho_1373-198 (BGRA8, 626X626)
+[2018.05.19-17.51.38:345][  0]LogTexture: Display: Building textures: SpecularMaptapete (BGRA8, 626X626)
+[2018.05.19-17.51.38:345][  0]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/Police/Idle.Idle
+[2018.05.19-17.51.38:376][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Police/Running_Anim.Running_Anim
+[2018.05.19-17.51.38:378][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Police/Running_Anim.Running_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.19-17.51.38:381][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Police/Idle_Anim.Idle_Anim
+[2018.05.19-17.51.38:381][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Police/Idle_Anim.Idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.19-17.51.38:498][  0]LogTexture: Display: Building textures: NormalMaptapete (BGRA8, 626X626)
+[2018.05.19-17.51.38:498][  0]LogStaticMesh: Criando malha estática TREE_Tree_polySurface1_g1_g2_polySurface2_polySurface3...
+[2018.05.19-17.51.38:882][  0]LogTexture: Display: Building textures: AmbientOcclusionMaptapete (BGRA8, 626X626)
+[2018.05.19-17.51.38:882][  0]LogTexture: Display: Building textures: Douglas_Top_Gloss (AutoDXT, 1024X1024)
+[2018.05.19-17.51.38:882][  0]LogStaticMesh: Built static mesh [0.38s] /Game/ThirdPersonBP/TREE_Tree_polySurface1_g1_g2_polySurface2_polySurface3.TREE_Tree_polySurface1_g1_g2_polySurface2_polySurface3
+[2018.05.19-17.51.38:966][  0]LogTexture: Display: Building textures: 35_-_Extintor (BGRA8, 294X167)
+[2018.05.19-17.51.38:966][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [31.112354ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.19-17.51.40:458][  0]LogTexture: Display: Building textures: DB2X2_L01 (AutoDXT, 1024X1024)
+[2018.05.19-17.51.40:458][  0]LogTexture: Display: Building textures: lambert2_Base_Color (AutoDXT, 1024X1024)
+[2018.05.19-17.51.40:458][  0]LogTexture: Display: Building textures: Douglas_Top_Diffuse (AutoDXT, 1024X1024)
+[2018.05.19-17.51.40:458][  0]LogTexture: Display: Building textures: lambert12_Base_Color (AutoDXT, 1024X1024)
+[2018.05.19-17.51.40:458][  0]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.05.19-17.51.40:458][  0]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.05.19-17.51.40:492][  0]LogSkeletalMesh: Building Skeletal Mesh Walking...
+[2018.05.19-17.51.40:685][  0]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.05.19-17.51.40:685][  0]LogSkeletalMesh: Built Skeletal Mesh [0.19s] /Game/Walking.Walking
+[2018.05.19-17.51.40:757][  0]LogMaterial: Missing cached shader map for material foco_Base_Color_Mat, compiling. 
+[2018.05.19-17.51.40:806][  0]LogMaterial: Missing cached shader map for material fe0b6a9f2f00b4d44546cd5fb59ef33d--parchment-design-teal-blue_Mat, compiling. 
+[2018.05.19-17.51.40:832][  0]LogMaterial: Missing cached shader map for material cama1_Base_Color_Mat, compiling. 
+[2018.05.19-17.51.40:855][  0]LogMaterial: Missing cached shader map for material armario2_base_color_pronto_Mat, compiling. 
+[2018.05.19-17.51.40:879][  0]LogMaterial: Missing cached shader map for material armario1_Base_Color_Mat, compiling. 
+[2018.05.19-17.51.40:911][  0]LogMaterial: Missing cached shader map for material ab739d5653829af07f26b9c96efcf191--wood-floor-texture-texture-design_Mat, compiling. 
+[2018.05.19-17.51.40:945][  0]LogMaterial: Missing cached shader map for material -books_Mat, compiling. 
+[2018.05.19-17.51.41:087][  0]LogStaticMesh: Criando malha estática chaves...
+[2018.05.19-17.51.41:108][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Bagulhos/chaves.chaves
+[2018.05.19-17.51.41:212][  0]LogMaterial: Missing cached shader map for material LAndsCapeMaster, compiling. 
+[2018.05.19-17.51.41:252][  0]LogMaterial: Missing cached shader map for material tapete, compiling. 
+[2018.05.19-17.51.41:282][  0]LogMaterial: Missing cached shader map for material lambert2_Base_Color_Mat, compiling. 
+[2018.05.19-17.51.41:308][  0]LogMaterial: Missing cached shader map for material lambert12_Base_Color_Mat, compiling. 
+[2018.05.19-17.51.41:333][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.05.19-17.51.41:369][  0]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.05.19-17.51.42:012][  0]LogShaderCompilers: Display: Shaders left to compile 492
+[2018.05.19-17.51.42:205][  0]LogStaticMesh: Criando malha estática armario1...
+[2018.05.19-17.51.42:263][  0]LogStaticMesh: Built static mesh [0.06s] /Game/Bagulhos/armario1.armario1
+[2018.05.19-17.51.42:267][  0]LogStaticMesh: Criando malha estática Banco_de_Pra_a...
+[2018.05.19-17.51.42:280][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Banco_de_Pra_a.Banco_de_Pra_a
+[2018.05.19-17.51.42:283][  0]LogStaticMesh: Criando malha estática cabine...
+[2018.05.19-17.51.42:323][  0]LogStaticMesh: Built static mesh [0.04s] /Game/cabine.cabine
+[2018.05.19-17.51.42:329][  0]LogStaticMesh: Criando malha estática CAMA_CIRUR...
+[2018.05.19-17.51.42:372][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Bagulhos/CAMA_CIRUR.CAMA_CIRUR
+[2018.05.19-17.51.42:378][  0]LogStaticMesh: Criando malha estática Exstintor...
+[2018.05.19-17.51.42:467][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Bagulhos/Exstintor.Exstintor
+[2018.05.19-17.51.42:474][  0]LogStaticMesh: Criando malha estática FOCO_CIRur...
+[2018.05.19-17.51.42:505][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Bagulhos/FOCO_CIRur.FOCO_CIRur
+[2018.05.19-17.51.42:510][  0]LogStaticMesh: Criando malha estática monitor_2...
+[2018.05.19-17.51.42:597][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Bagulhos/monitor_2.monitor_2
+[2018.05.19-17.51.42:599][  0]LogStaticMesh: Criando malha estática monitor_batimentos...
+[2018.05.19-17.51.42:635][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Bagulhos/monitor_batimentos.monitor_batimentos
+[2018.05.19-17.51.42:643][  0]LogStaticMesh: Criando malha estática paradaqfiacnotopodaparede...
+[2018.05.19-17.51.42:647][  0]LogStaticMesh: Built static mesh [0.00s] /Game/paradaqfiacnotopodaparede.paradaqfiacnotopodaparede
+[2018.05.19-17.51.42:648][  0]LogStaticMesh: Criando malha estática paredeestranha...
+[2018.05.19-17.51.42:653][  0]LogStaticMesh: Built static mesh [0.00s] /Game/paredeestranha.paredeestranha
+[2018.05.19-17.51.42:655][  0]LogStaticMesh: Criando malha estática placademadeira...
+[2018.05.19-17.51.42:660][  0]LogStaticMesh: Built static mesh [0.01s] /Game/placademadeira.placademadeira
+[2018.05.19-17.51.42:662][  0]LogStaticMesh: Criando malha estática portaria...
+[2018.05.19-17.51.42:882][  0]LogStaticMesh: Built static mesh [0.22s] /Game/portaria.portaria
+[2018.05.19-17.51.42:928][  0]LogStaticMesh: Criando malha estática suporte...
+[2018.05.19-17.51.42:967][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Bagulhos/suporte.suporte
+[2018.05.19-17.51.42:972][  0]LogStaticMesh: Criando malha estática untitled...
+[2018.05.19-17.51.43:061][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Bagulhos/untitled.untitled
+[2018.05.19-17.51.43:285][  0]LogMaterial: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.05.19-17.51.43:341][  0]LogMaterial: Missing cached shader map for material lambert2SG, compiling. 
+[2018.05.19-17.51.43:367][  0]LogMaterial: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.05.19-17.51.43:395][  0]LogMaterial: Missing cached shader map for material initialShadingGroup_pCube1Mat, compiling. 
+[2018.05.19-17.51.43:422][  0]LogMaterial: Missing cached shader map for material pCube13Mat, compiling. 
+[2018.05.19-17.51.43:446][  0]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.05.19-17.51.43:469][  0]LogMaterial: Missing cached shader map for material defaultMat, compiling. 
+[2018.05.19-17.51.43:492][  0]LogMaterial: Missing cached shader map for material phongE1SG, compiling. 
+[2018.05.19-17.51.43:516][  0]LogMaterial: Missing cached shader map for material lambert5SG, compiling. 
+[2018.05.19-17.51.43:541][  0]LogMaterial: Missing cached shader map for material lambert4SG, compiling. 
+[2018.05.19-17.51.43:565][  0]LogMaterial: Missing cached shader map for material lambert3SG, compiling. 
+[2018.05.19-17.51.43:590][  0]LogMaterial: Missing cached shader map for material anisotropic8SG, compiling. 
+[2018.05.19-17.51.43:612][  0]LogMaterial: Missing cached shader map for material anisotropic7SG, compiling. 
+[2018.05.19-17.51.43:636][  0]LogShaderCompilers: Display: Shaders left to compile 818
+[2018.05.19-17.51.43:637][  0]LogMaterial: Missing cached shader map for material anisotropic6SG, compiling. 
+[2018.05.19-17.51.43:659][  0]LogMaterial: Missing cached shader map for material anisotropic5SG, compiling. 
+[2018.05.19-17.51.43:682][  0]LogMaterial: Missing cached shader map for material anisotropic4SG, compiling. 
+[2018.05.19-17.51.43:707][  0]LogMaterial: Missing cached shader map for material cama1, compiling. 
+[2018.05.19-17.51.43:729][  0]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.05.19-17.51.43:751][  0]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.05.19-17.51.43:774][  0]LogMaterial: Missing cached shader map for material polySurface1SG1, compiling. 
+[2018.05.19-17.51.43:988][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.19-17.51.44:152][  0]LogShaderCompilers: Display: Shaders left to compile 1029
+[2018.05.19-17.51.44:152][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.19-17.51.44:216][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.19-17.51.44:572][  0]LogShaderCompilers: Display: Shaders left to compile 1019
+[2018.05.19-17.51.44:572][  0]LogShaderCompilers: Display: Shaders left to compile 1009
+[2018.05.19-17.51.44:572][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 355,704ms to complete.
+[2018.05.19-17.51.44:572][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 25.960
+[2018.05.19-17.51.45:015][  0]LogCollectionManager: Loaded 0 collections in 0.005247 seconds
+[2018.05.19-17.51.45:131][  0]LogFileCache: Scanning file cache for directory 'D:/BLOCAGEMCENARIO 4.19 - 2/Saved/Collections/' took 0.01s
+[2018.05.19-17.51.45:131][  0]LogFileCache: Scanning file cache for directory 'D:/BLOCAGEMCENARIO 4.19 - 2/Content/Developers/Aluno/Collections/' took 0.01s
+[2018.05.19-17.51.45:131][  0]LogFileCache: Scanning file cache for directory 'D:/BLOCAGEMCENARIO 4.19 - 2/Content/Collections/' took 0.02s
+[2018.05.19-17.51.45:131][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.19-17.51.45:159][  0]LogContentBrowser: Native class hierarchy populated in 0.0254 seconds. Added 2452 classes and 558 folders.
+[2018.05.19-17.51.45:190][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.05.19-17.51.45:691][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.19-17.51.45:720][  0]LogShaderCompilers: Display: Shaders left to compile 999
+[2018.05.19-17.51.45:720][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.05.19-17.51.45:914][  0]LogSlate: Took 0.000743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.19-17.51.45:918][  0]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.19-17.51.45:940][  0]LogSlate: Took 0.002567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.19-17.51.46:337][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.19-17.51.46:571][  0]LogSlate: Took 0.008453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.19-17.51.46:891][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.19-17.51.46:979][  0]LogSlate: Window 'Tutoriais' being destroyed
+[2018.05.19-17.51.47:018][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.05.19-17.51.47:018][  0]LogLoad: (Engine Initialization) Total time: 75.06 seconds
+[2018.05.19-17.51.47:018][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.19-17.51.47:443][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.19-17.51.47:703][  1]LogShaderCompilers: Display: Shaders left to compile 989
+[2018.05.19-17.51.48:026][  2]LogShaderCompilers: Display: Shaders left to compile 979
+[2018.05.19-17.51.48:617][  3]LogSlate: Took 0.000583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.19-17.51.49:274][  5]LogShaderCompilers: Display: Shaders left to compile 969
+[2018.05.19-17.51.49:274][  5]LogAssetRegistry: Asset discovery search completed in 44.2303 seconds
+[2018.05.19-17.51.49:285][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.05.19-17.51.49:285][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000249 seconds (updated 0 objects)
+[2018.05.19-17.51.50:269][  9]LogShaderCompilers: Display: Shaders left to compile 959
+[2018.05.19-17.51.50:269][  9]LogShaderCompilers: Display: Shaders left to compile 949
+[2018.05.19-17.51.52:266][ 50]LogShaderCompilers: Display: Shaders left to compile 939
+[2018.05.19-17.51.52:399][ 52]LogShaderCompilers: Display: Shaders left to compile 929
+[2018.05.19-17.51.54:093][ 81]LogShaderCompilers: Display: Shaders left to compile 919
+[2018.05.19-17.51.54:955][105]LogShaderCompilers: Display: Shaders left to compile 909
+[2018.05.19-17.51.55:017][108]LogShaderCompilers: Display: Shaders left to compile 899
+[2018.05.19-17.51.57:400][177]LogShaderCompilers: Display: Shaders left to compile 889
+[2018.05.19-17.51.57:843][190]LogShaderCompilers: Display: Shaders left to compile 879
+[2018.05.19-17.51.58:243][202]LogShaderCompilers: Display: Shaders left to compile 869
+[2018.05.19-17.51.59:579][240]LogShaderCompilers: Display: Shaders left to compile 859
+[2018.05.19-17.52.00:839][262]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.05.19-17.52.01:262][263]LogShaderCompilers: Display: Shaders left to compile 849
+[2018.05.19-17.52.01:277][263]LogShaderCompilers: Display: Shaders left to compile 839
+[2018.05.19-17.52.02:226][288]LogShaderCompilers: Display: Shaders left to compile 829
+[2018.05.19-17.52.03:346][320]LogShaderCompilers: Display: Shaders left to compile 819
+[2018.05.19-17.52.05:200][330]LogShaderCompilers: Display: Shaders left to compile 809
+[2018.05.19-17.52.05:200][330]LogShaderCompilers: Display: Shaders left to compile 799
+[2018.05.19-17.52.05:767][341]LogShaderCompilers: Display: Shaders left to compile 789
+[2018.05.19-17.52.07:434][381]LogShaderCompilers: Display: Shaders left to compile 779
+[2018.05.19-17.52.08:066][399]LogShaderCompilers: Display: Shaders left to compile 769
+[2018.05.19-17.52.08:497][403]LogShaderCompilers: Display: Shaders left to compile 759
+[2018.05.19-17.52.10:413][436]LogShaderCompilers: Display: Shaders left to compile 749
+[2018.05.19-17.52.11:743][459]LogShaderCompilers: Display: Shaders left to compile 739
+[2018.05.19-17.52.11:918][464]LogShaderCompilers: Display: Shaders left to compile 729
+[2018.05.19-17.52.15:278][483]LogShaderCompilers: Display: Shaders left to compile 719
+[2018.05.19-17.52.15:278][483]LogShaderCompilers: Display: Shaders left to compile 709
+[2018.05.19-17.52.15:278][483]LogShaderCompilers: Display: Shaders left to compile 699
+[2018.05.19-17.52.15:491][488]LogShaderCompilers: Display: Shaders left to compile 689
+[2018.05.19-17.52.18:248][561]LogShaderCompilers: Display: Shaders left to compile 679
+[2018.05.19-17.52.18:556][568]LogShaderCompilers: Display: Shaders left to compile 669
+[2018.05.19-17.52.18:618][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.19-17.52.19:529][595]LogShaderCompilers: Display: Shaders left to compile 659
+[2018.05.19-17.52.19:679][599]LogShaderCompilers: Display: Shaders left to compile 649
+[2018.05.19-17.52.20:902][636]LogShaderCompilers: Display: Shaders left to compile 639
+[2018.05.19-17.52.21:780][665]LogShaderCompilers: Display: Shaders left to compile 629
+[2018.05.19-17.52.22:808][697]LogShaderCompilers: Display: Shaders left to compile 619
+[2018.05.19-17.52.23:643][724]LogShaderCompilers: Display: Shaders left to compile 609
+[2018.05.19-17.52.24:804][760]LogShaderCompilers: Display: Shaders left to compile 599
+[2018.05.19-17.52.25:123][769]LogShaderCompilers: Display: Shaders left to compile 589
+[2018.05.19-17.52.25:754][789]LogShaderCompilers: Display: Shaders left to compile 579
+[2018.05.19-17.52.26:438][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.19-17.52.27:955][808]LogShaderCompilers: Display: Shaders left to compile 569
+[2018.05.19-17.52.27:956][808]LogShaderCompilers: Display: Shaders left to compile 559
+[2018.05.19-17.52.28:700][815]LogShaderCompilers: Display: Shaders left to compile 549
+[2018.05.19-17.52.29:481][828]LogShaderCompilers: Display: Shaders left to compile 539
+[2018.05.19-17.52.29:984][836]LogShaderCompilers: Display: Shaders left to compile 529
+[2018.05.19-17.52.31:048][869]LogSlate: Window 'Preferências do Editor' being destroyed
+[2018.05.19-17.52.31:891][921]LogShaderCompilers: Display: Shaders left to compile 519
+[2018.05.19-17.52.32:244][941]LogShaderCompilers: Display: Shaders left to compile 509
+[2018.05.19-17.52.32:631][965]LogShaderCompilers: Display: Shaders left to compile 499
+[2018.05.19-17.52.33:245][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.19-17.52.33:523][ 24]LogShaderCompilers: Display: Shaders left to compile 489
+[2018.05.19-17.52.34:572][121]LogSlate: Took 0.032305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.05.19-17.52.34:591][122]LogSlate: Took 0.002145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2018.05.19-17.52.34:990][159]LogShaderCompilers: Display: Shaders left to compile 479
+[2018.05.19-17.52.35:378][197]LogShaderCompilers: Display: Shaders left to compile 469
+[2018.05.19-17.52.36:624][320]LogShaderCompilers: Display: Shaders left to compile 459
+[2018.05.19-17.52.38:006][327]LogShaderCompilers: Display: Shaders left to compile 449
+[2018.05.19-17.52.38:006][327]LogShaderCompilers: Display: Shaders left to compile 439
+[2018.05.19-17.52.38:006][327]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 1.290587 seconds
+[2018.05.19-17.52.38:872][328]LogSlate: Took 0.000957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.19-17.52.38:881][328]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.19-17.52.38:887][328]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.19-17.52.39:332][367]LogShaderCompilers: Display: Shaders left to compile 429
+[2018.05.19-17.52.39:725][402]LogShaderCompilers: Display: Shaders left to compile 419
+[2018.05.19-17.52.39:725][402]LogShaderCompilers: Display: Shaders left to compile 409
+[2018.05.19-17.52.41:460][569]LogShaderCompilers: Display: Shaders left to compile 399
+[2018.05.19-17.52.41:930][614]LogShaderCompilers: Display: Shaders left to compile 389
+[2018.05.19-17.52.41:955][616]LogShaderCompilers: Display: Shaders left to compile 379
+[2018.05.19-17.52.43:889][809]LogShaderCompilers: Display: Shaders left to compile 369
+[2018.05.19-17.52.44:530][873]LogShaderCompilers: Display: Shaders left to compile 359
+[2018.05.19-17.52.45:303][954]LogShaderCompilers: Display: Shaders left to compile 349
+[2018.05.19-17.52.46:224][ 35]LogShaderCompilers: Display: Shaders left to compile 339
+[2018.05.19-17.52.47:577][138]LogShaderCompilers: Display: Shaders left to compile 329
+[2018.05.19-17.52.48:137][169]LogShaderCompilers: Display: Shaders left to compile 319
+[2018.05.19-17.52.48:137][169]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.19-17.52.48:142][169]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.19-17.52.48:736][179]LogShaderCompilers: Display: Shaders left to compile 309
+[2018.05.19-17.52.49:793][203]LogShaderCompilers: Display: Shaders left to compile 299
+[2018.05.19-17.52.51:087][231]LogShaderCompilers: Display: Shaders left to compile 289
+[2018.05.19-17.52.51:851][248]LogShaderCompilers: Display: Shaders left to compile 279
+[2018.05.19-17.52.51:852][248]LogShaderCompilers: Display: Shaders left to compile 269
+[2018.05.19-17.52.53:822][289]LogShaderCompilers: Display: Shaders left to compile 259
+[2018.05.19-17.52.54:125][291]LogShaderCompilers: Display: Shaders left to compile 249
+[2018.05.19-17.52.54:811][291]LogShaderCompilers: Display: Shaders left to compile 239
+[2018.05.19-17.52.55:251][291]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.05.19-17.52.55:502][292]LogShaderCompilers: Display: Shaders left to compile 229
+[2018.05.19-17.52.56:813][317]LogShaderCompilers: Display: Shaders left to compile 219
+[2018.05.19-17.52.56:933][319]LogShaderCompilers: Display: Shaders left to compile 209
+[2018.05.19-17.52.58:814][355]LogShaderCompilers: Display: Shaders left to compile 199
+[2018.05.19-17.52.58:917][357]LogShaderCompilers: Display: Shaders left to compile 189
+[2018.05.19-17.52.59:464][368]LogShaderCompilers: Display: Shaders left to compile 179
+[2018.05.19-17.53.01:115][407]LogShaderCompilers: Display: Shaders left to compile 169
+[2018.05.19-17.53.01:496][418]LogShaderCompilers: Display: Shaders left to compile 159
+[2018.05.19-17.53.02:362][435]LogShaderCompilers: Display: Shaders left to compile 149
+[2018.05.19-17.53.03:218][452]LogShaderCompilers: Display: Shaders left to compile 139
+[2018.05.19-17.53.03:919][465]LogShaderCompilers: Display: Shaders left to compile 129
+[2018.05.19-17.53.04:882][484]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.05.19-17.53.06:034][506]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.05.19-17.53.06:465][514]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.05.19-17.53.07:263][529]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.05.19-17.53.08:727][557]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.05.19-17.53.10:153][560]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.05.19-17.53.10:153][560]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.05.19-17.53.11:047][578]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.05.19-17.53.11:186][581]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.05.19-17.53.12:063][598]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.05.19-17.53.12:935][616]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.05.19-17.53.14:185][635]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.05.19-17.53.17:350][678]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.05.19-17.53.20:749][712]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:35).
+[2018.05.19-17.53.20:921][720]LogSlate: Window 'Celular_114*' being destroyed
+[2018.05.19-17.53.28:509][980]LogSlate: Took 0.002004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.19-17.53.28:642][981]LogSlate: Took 0.002143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.19-17.54.12:911][103]LogSlate: Took 0.002057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.19-17.54.28:957][182]LogEditorViewport: Clicking on Actor (LMB): IA_Character_C (person1)
+[2018.05.19-17.54.34:000][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.19-17.56.58:404][295]LogEditorTransaction: Undo Delete current selection
+[2018.05.19-17.56.58:669][302]LogEditorTransaction: Undo Move Node
+[2018.05.19-18.00.02:053][465]BlueprintLog: New page: Compile IA_Character
+[2018.05.19-18.01.24:991][208]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.24:991][208]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.24:992][208]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.24:992][208]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:009][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:009][209]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:009][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:009][209]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:028][210]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:028][210]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:028][210]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:028][210]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:209][220]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:209][220]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:210][220]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:210][220]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:228][221]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:228][221]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:228][221]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:228][221]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:245][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:245][222]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:245][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:245][222]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:265][223]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:265][223]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:265][223]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:265][223]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:282][224]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:282][224]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:282][224]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:282][224]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:300][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:300][225]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:300][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:300][225]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:318][226]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:318][226]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:318][226]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:318][226]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:335][227]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:336][227]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:336][227]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:336][227]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:354][228]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:354][228]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.25:354][228]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.25:354][228]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.28:315][388]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.28:315][388]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.28:316][388]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.28:316][388]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.28:332][389]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.28:332][389]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.28:332][389]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.28:332][389]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.28:774][414]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.28:774][414]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.28:775][414]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.28:775][414]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.28:791][415]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.28:791][415]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.28:791][415]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.28:791][415]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:191][438]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:191][438]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:192][438]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:192][438]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:208][439]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:208][439]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:208][439]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:208][439]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:224][440]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:224][440]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:224][440]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:224][440]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:241][441]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:241][441]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:242][441]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:242][441]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:260][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:260][442]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:260][442]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:260][442]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:893][478]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:893][478]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:894][478]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:894][478]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:911][479]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:911][479]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:911][479]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:911][479]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:928][480]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:928][480]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:928][480]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:928][480]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:946][481]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:946][481]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:946][481]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:946][481]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:963][482]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:963][482]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:963][482]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:963][482]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:982][483]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:982][483]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.29:983][483]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.29:983][483]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:002][484]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:002][484]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:003][484]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:003][484]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:019][485]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:019][485]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:020][485]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:020][485]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:036][486]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:036][486]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:037][486]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:037][486]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:054][487]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:054][487]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:054][487]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:054][487]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:071][488]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:071][488]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:071][488]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:071][488]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:088][489]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:088][489]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:088][489]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:088][489]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:106][490]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:106][490]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:106][490]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:106][490]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:123][491]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:123][491]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:123][491]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:123][491]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:140][492]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:140][492]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:141][492]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:141][492]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:157][493]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:157][493]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:157][493]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:157][493]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:174][494]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:174][494]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:174][494]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:174][494]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:191][495]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:191][495]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:191][495]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:191][495]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:208][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:208][496]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:208][496]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:208][496]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:225][497]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:225][497]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:225][497]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:225][497]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:242][498]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:242][498]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:242][498]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:242][498]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:259][499]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:259][499]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:259][499]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:259][499]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:277][500]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:277][500]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:277][500]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:277][500]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:294][501]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:294][501]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:294][501]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:294][501]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:311][502]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:311][502]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:311][502]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:311][502]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:328][503]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:328][503]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:328][503]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:328][503]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:344][504]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:345][504]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:345][504]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:345][504]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:362][505]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:362][505]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:362][505]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:362][505]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:380][506]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:380][506]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:380][506]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:380][506]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:396][507]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:396][507]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:396][507]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:396][507]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:413][508]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:413][508]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:413][508]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:413][508]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:430][509]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:430][509]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:430][509]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:430][509]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:447][510]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:447][510]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:447][510]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:447][510]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:464][511]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:464][511]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:464][511]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:464][511]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:481][512]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:481][512]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:481][512]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:481][512]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:499][513]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:499][513]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.30:499][513]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.30:499][513]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.32:130][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.19-18.01.37:242][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.19-18.01.40:436][181]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:436][181]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:437][181]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:437][181]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:454][182]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:454][182]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:454][182]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:454][182]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:471][183]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:471][183]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:472][183]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:472][183]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:488][184]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:488][184]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:489][184]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:489][184]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:507][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:507][185]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:507][185]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:507][185]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:524][186]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:524][186]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:525][186]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:525][186]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:542][187]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:542][187]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:542][187]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:542][187]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:560][188]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:560][188]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:560][188]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:560][188]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:577][189]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:577][189]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:577][189]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:577][189]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:595][190]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:595][190]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:595][190]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:595][190]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:807][202]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:807][202]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:808][202]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:808][202]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:824][203]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:824][203]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:824][203]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:824][203]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:841][204]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:841][204]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:841][204]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:841][204]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:860][205]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:860][205]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:861][205]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:861][205]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:880][206]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:880][206]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:880][206]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:880][206]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:897][207]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:897][207]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:897][207]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:897][207]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:916][208]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:916][208]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:916][208]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:916][208]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:935][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:935][209]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:935][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:935][209]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:956][210]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:956][210]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:956][210]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:956][210]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:974][211]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:974][211]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:974][211]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:974][211]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:991][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:991][212]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.40:991][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.40:991][212]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:008][213]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:008][213]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:009][213]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:009][213]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:026][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:026][214]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:027][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:027][214]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:046][215]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:047][215]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:047][215]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:047][215]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:065][216]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:065][216]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:065][216]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:065][216]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:082][217]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:082][217]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:083][217]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:083][217]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:100][218]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:101][218]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:101][218]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:101][218]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:118][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:118][219]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:118][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:118][219]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:135][220]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:135][220]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:135][220]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:135][220]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:153][221]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:153][221]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:153][221]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:153][221]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:170][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:170][222]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:171][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:171][222]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:188][223]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:188][223]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:188][223]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:188][223]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:206][224]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:206][224]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:207][224]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:207][224]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:224][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:224][225]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:224][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:224][225]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:241][226]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:242][226]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:242][226]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:242][226]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:260][227]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:260][227]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:260][227]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:260][227]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:278][228]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:278][228]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:278][228]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:278][228]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:295][229]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:295][229]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:295][229]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:295][229]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:312][230]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:312][230]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:313][230]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:313][230]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:329][231]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:329][231]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:330][231]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:330][231]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:347][232]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:347][232]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:347][232]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:347][232]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:365][233]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:365][233]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:365][233]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:365][233]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:382][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:382][234]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:383][234]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:383][234]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:402][235]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:402][235]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:402][235]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:402][235]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:419][236]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:419][236]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:419][236]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:419][236]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:436][237]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:436][237]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:437][237]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:437][237]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:454][238]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:454][238]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:454][238]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:454][238]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:471][239]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:471][239]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:472][239]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:472][239]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:489][240]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:489][240]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:489][240]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:489][240]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:508][241]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:508][241]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.41:508][241]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.05.19-18.01.41:508][241]LogPhysics: Warning: ForeachShape(Convex): [/Game/Geometry/Meshes/1M_Cube.1M_Cube] ScaledElem[0] invalid
+[2018.05.19-18.01.53:977][939]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.19-18.02.10:871][178]BlueprintLog: New page: Compile Celular_114
+[2018.05.19-18.03.34:705][126]BlueprintLog: New page: Compile Celular_114
+[2018.05.19-18.03.34:721][126]LogBlueprint: Error: [Compiler Celular_114] This blueprint (self) is not a ThirdPersonCharacter_C, therefore ' Target ' must have a connection.
+[2018.05.19-18.03.34:721][126]LogBlueprint: Error: [Compiler Celular_114] Variable node  Set Celular_114  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.05.19-18.03.34:906][126]LogBlueprint: Warning: [Compiler Celular_114] [0780.62] Compile of Celular_114 failed. 2 Fatal Issue(s) 0 Warning(s) [in 201 ms] (/Game/Chaves_Portas/Celular_114.Celular_114)
+[2018.05.19-18.03.58:711][488]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.05.19-18.04.11:951][400]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.19-18.04.22:001][293]BlueprintLog: New page: Compile IA_Character
+[2018.05.19-18.04.47:500][ 59]LogUObjectArray: Warning: Invalid object index -572662307
+[2018.05.19-18.04.47:681][ 59]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.181 s
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: 
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: Stack: 
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E5C2B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E598AE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E599ECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000DEEB3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000DC45B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000DCAAC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000DC9377AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000DC93AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000DCA76E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E18D6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E18DBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E1B0C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E1930475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E1908360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E18FB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E1DCE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E1DC1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E1DD052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E1DBD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x0000000076CD9BBD USER32.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x0000000076CD98C2 USER32.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x00000000E1DD1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x000000003FE65475 UE4Editor.exe!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x000000003FE76BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x000000003FE76C4A UE4Editor.exe!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x000000003FE84149 UE4Editor.exe!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x000000003FE85B57 UE4Editor.exe!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x0000000076DD59CD kernel32.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: [Callstack] 0x0000000076F0A561 ntdll.dll!UnknownFunction []
+[2018.05.19-18.04.47:681][ 59]LogOutputDevice: Error: 
+[2018.05.19-18.04.47:700][ 59]LogStats:                SubmitErrorReport -  0.000 s

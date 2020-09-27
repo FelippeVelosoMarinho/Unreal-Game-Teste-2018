@@ -1,0 +1,932 @@
+﻿Log file open, 12/02/17 12:39:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BLOCAGEMCENARIO
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1481869425) SRandInit(1481869425).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.164811
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.02-14.39.30:149][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-14.39.30:149][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.02-14.39.30:443][  0]LogInit: Computer: LAB-D07
+[2017.12.02-14.39.30:443][  0]LogInit: User: Aluno
+[2017.12.02-14.39.30:443][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.02-14.39.30:443][  0]LogInit: High frequency timer resolution =3.312841 MHz
+[2017.12.02-14.39.30:444][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2017.12.02-14.39.30:444][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.02-14.39.30:444][  0]LogMemory: Process Physical Memory: 280.79 MB used, 280.79 MB peak
+[2017.12.02-14.39.30:444][  0]LogMemory: Process Virtual Memory: 285.45 MB used, 285.45 MB peak
+[2017.12.02-14.39.30:444][  0]LogMemory: Physical Memory: 2482.28 MB used,  5673.51 MB free, 8155.79 MB total
+[2017.12.02-14.39.30:444][  0]LogMemory: Virtual Memory: 664.79 MB used,  5673.51 MB free, 8388608.00 MB total
+[2017.12.02-14.39.30:709][  0]LogInit: Using OS detected language (pt-BR).
+[2017.12.02-14.39.30:709][  0]LogInit: Using OS detected locale (pt-BR).
+[2017.12.02-14.39.31:223][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.02-14.39.31:238][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 550 Ti' (Feature Level 11_0)
+[2017.12.02-14.39.31:238][  0]LogD3D11RHI:       977/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.02-14.39.31:238][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.02-14.39.31:242][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.02-14.39.31:242][  0]LogD3D11RHI:     GPU DeviceId: 0x1244 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.02-14.39.31:242][  0]LogWindows: EnumDisplayDevices:
+[2017.12.02-14.39.31:242][  0]LogWindows:    0. 'NVIDIA GeForce GTX 550 Ti' (P:1 D:1)
+[2017.12.02-14.39.31:242][  0]LogWindows:    1. 'NVIDIA GeForce GTX 550 Ti' (P:0 D:0)
+[2017.12.02-14.39.31:243][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2017.12.02-14.39.31:243][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.12.02-14.39.31:243][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.12.02-14.39.31:243][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2017.12.02-14.39.31:243][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 550 Ti
+[2017.12.02-14.39.31:243][  0]LogD3D11RHI:   Driver Version: 385.69 (internal:22.21.13.8569, unified:385.69)
+[2017.12.02-14.39.31:243][  0]LogD3D11RHI:      Driver Date: 9-16-2017
+[2017.12.02-14.39.31:243][  0]LogRHI: Texture pool is 683 MB (70% of 977 MB)
+[2017.12.02-14.39.31:250][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.12.02-14.39.31:250][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.02-14.39.31:265][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.12.02-14.39.31:266][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (D:/BLOCAGEMCENARIO/Intermediate/Shaders/WorkingDirectory/2772/).
+[2017.12.02-14.39.31:266][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Aluno/AppData/Local/Temp/UnrealShaderWorkingDir/367701394B06F48C0FFE099318DB8277/'.
+[2017.12.02-14.39.31:266][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.02-14.39.32:245][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.02-14.39.32:322][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.02-14.39.32:400][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.02-14.39.32:477][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.02-14.39.32:553][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.02-14.39.32:628][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.02-14.39.32:703][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.02-14.39.32:781][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.02-14.39.32:851][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.02-14.39.32:931][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.02-14.39.33:007][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.02-14.39.33:084][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.02-14.39.33:159][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.02-14.39.33:235][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.02-14.39.33:314][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.02-14.39.33:468][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.02-14.39.33:468][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.02-14.39.33:527][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.02-14.39.33:660][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.02-14.39.33:710][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.02-14.39.33:786][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.02-14.39.33:861][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.02-14.39.33:938][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.02-14.39.34:014][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.02-14.39.34:014][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.02-14.39.34:790][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.02-14.39.34:938][  0]LogDerivedDataCache: Loaded boot cache 0.15s 93MB C:/Users/Aluno/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.02-14.39.34:938][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Aluno/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.02-14.39.34:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/BLOCAGEMCENARIO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.02-14.39.34:938][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.02-14.39.34:939][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/BLOCAGEMCENARIO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.02-14.39.34:939][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.02-14.39.34:961][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.02-14.39.34:973][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Aluno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.02-14.39.34:985][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.02-14.39.34:986][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.02-14.39.34:986][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-14.39.34:986][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.02-14.39.35:309][  0]LogAssetRegistry: FAssetRegistry took 0.0287 seconds to start up
+[2017.12.02-14.39.42:263][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.02-14.39.42:267][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.02-14.39.42:821][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.02-14.39.42:882][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.02-14.39.42:882][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.02-14.39.42:882][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.02-14.39.42:882][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.02-14.39.42:882][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.02-14.39.43:385][  0]LogNetVersion: BLOCAGEMCENARIO , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 206028489)
+[2017.12.02-14.39.44:635][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 1.040011 seconds
+[2017.12.02-14.39.44:644][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.02-14.39.44:644][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.12.02-14.39.44:644][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.02-14.39.44:748][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.02-14.39.52:209][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.02-14.39.52:268][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.02-14.39.53:149][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.02-14.39.53:729][  0]SourceControl: Controle de origem desativado
+[2017.12.02-14.39.53:729][  0]SourceControl: Controle de origem desativado
+[2017.12.02-14.39.53:799][  0]SourceControl: Controle de origem desativado
+[2017.12.02-14.39.53:867][  0]SourceControl: Controle de origem desativado
+[2017.12.02-14.39.54:789][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.02-14.39.55:137][  0]LogOcInput: OculusInput pre-init called
+[2017.12.02-14.39.55:515][  0]LogEngine: Initializing Engine...
+[2017.12.02-14.39.55:517][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.02-14.39.55:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.02-14.39.55:818][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.02-14.39.56:035][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.02-14.39.56:043][  0]LogInit: No audio devices found!
+[2017.12.02-14.39.56:185][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/Aluno/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.02-14.39.56:209][  0]LogInit: Texture streaming: Enabled
+[2017.12.02-14.39.56:403][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.02-14.39.56:734][  0]LogInit: Transaction tracking system initialized
+[2017.12.02-14.39.57:212][  0]BlueprintLog: New page: Carregar Editor
+[2017.12.02-14.39.58:610][  0]LocalizationService: Localization service is disabled
+[2017.12.02-14.39.59:696][  0]LogConsoleResponse: Display: 
+[2017.12.02-14.39.59:940][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.02-14.39.59:940][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.02-14.39.59:940][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.02-14.40.00:680][  0]LogFileCache: Scanning file cache for directory 'D:/BLOCAGEMCENARIO/Content/' took 0.03s
+[2017.12.02-14.40.01:549][  0]SourceControl: Controle de origem desativado
+[2017.12.02-14.40.01:549][  0]Cmd: MAP LOAD FILE="D:/BLOCAGEMCENARIO/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.02-14.40.01:550][  0]LightingResults: New page: Compilação de Iluminação
+[2017.12.02-14.40.01:615][  0]MapCheck: New page: Verificação de Mapa
+[2017.12.02-14.40.01:615][  0]LightingResults: New page: Compilação de Iluminação
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: LIVROSpecularMap (AutoDXT, 236X236)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: LIVRONormalMap (BC5, 236X236)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: LIVROAmbientOcclusionMap (AutoDXT, 236X236)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: ab739d5653829af07f26b9c96efcf191--wood-floor-texture-texture-design (AutoDXT, 720X720)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: AmbientOcclusionMap (AutoDXT, 720X720)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: -books (AutoDXT, 236X236)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: NormalMap (BC5, 720X720)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: DisplacementMap (AutoDXT, 720X720)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: fe0b6a9f2f00b4d44546cd5fb59ef33d--parchment-design-teal-blue (BGRA8, 736X981)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: SpecularMap (AutoDXT, 720X720)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: textura-do-tapete-vermelho_1373-198 (BGRA8, 626X626)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: SpecularMaptapete (BGRA8, 626X626)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: NormalMaptapete (BGRA8, 626X626)
+[2017.12.02-14.40.05:836][  0]LogTexture: Display: Building textures: AmbientOcclusionMaptapete (BGRA8, 626X626)
+[2017.12.02-14.40.05:836][  0]LogMaterial: Missing cached shader map for material ab739d5653829af07f26b9c96efcf191--wood-floor-texture-texture-design_Mat, compiling. 
+[2017.12.02-14.40.05:882][  0]LogMaterial: Missing cached shader map for material -books_Mat, compiling. 
+[2017.12.02-14.40.05:919][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2017.12.02-14.40.05:950][  0]LogMaterial: Missing cached shader map for material fe0b6a9f2f00b4d44546cd5fb59ef33d--parchment-design-teal-blue_Mat, compiling. 
+[2017.12.02-14.40.06:113][  0]LogMaterial: Missing cached shader map for material tapete, compiling. 
+[2017.12.02-14.40.07:102][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-14.40.07:251][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.02-14.40.07:423][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.02-14.40.32:848][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 23.254,797ms to complete.
+[2017.12.02-14.40.32:848][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 29.129
+[2017.12.02-14.40.33:102][  0]LogCollectionManager: Loaded 0 collections in 0.003798 seconds
+[2017.12.02-14.40.33:245][  0]LogFileCache: Scanning file cache for directory 'D:/BLOCAGEMCENARIO/Saved/Collections/' took 0.01s
+[2017.12.02-14.40.33:245][  0]LogFileCache: Scanning file cache for directory 'D:/BLOCAGEMCENARIO/Content/Developers/Aluno/Collections/' took 0.01s
+[2017.12.02-14.40.33:245][  0]LogFileCache: Scanning file cache for directory 'D:/BLOCAGEMCENARIO/Content/Collections/' took 0.01s
+[2017.12.02-14.40.33:245][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.02-14.40.33:260][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2386 classes and 500 folders.
+[2017.12.02-14.40.33:368][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0019 seconds. Added 0 classes and 0 folders.
+[2017.12.02-14.40.33:601][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2017.12.02-14.40.33:688][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2017.12.02-14.40.35:870][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-14.40.35:876][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.02-14.40.35:894][  0]LogSlate: Took 0.002663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.02-14.40.36:067][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.02-14.40.36:226][  0]LogSlate: Took 0.002795 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-14.40.36:502][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2017.12.02-14.40.36:502][  0]LogLoad: (Engine Initialization) Total time: 82.44 seconds
+[2017.12.02-14.40.36:502][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.02-14.40.36:503][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.02-14.40.36:879][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.02-14.40.37:515][  2]LogAssetRegistry: Asset discovery search completed in 60.0554 seconds
+[2017.12.02-14.40.37:517][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.02-14.40.37:517][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2017.12.02-14.42.37:185][448]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-14.42.42:297][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.42.42:298][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-14.42.42:300][448]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 10:42:42)
+[2017.12.02-14.42.42:301][448]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-14.42.42:440][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139627s)
+[2017.12.02-14.42.42:442][448]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-14.42.42:442][448]LogPlayLevel: PIE: World Init took: (0.002007s)
+[2017.12.02-14.42.42:443][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.142407s)
+[2017.12.02-14.42.42:517][448]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-14.42.42:540][448]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-12.42.42
+[2017.12.02-14.42.42:543][448]LogWorld: Bringing up level for play took: 0.022974
+[2017.12.02-14.42.42:614][448]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 11 classes and 0 folders.
+[2017.12.02-14.42.42:616][448]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,205
+[2017.12.02-14.42.42:617][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.45.57:124][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.45.57:180][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.46.10:951][ 98]Cmd: POLY TEXSCALE  UU=0.250000 VV=0.235294
+[2017.12.02-14.46.18:323][320]Cmd: POLY TEXSCALE  UU=0.500000 VV=0.500000
+[2017.12.02-14.46.32:095][703]Cmd: POLY TEXSCALE  UU=0.487805 VV=0.400000
+[2017.12.02-14.47.09:160][971]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-14.47.09:279][971]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.47.09:279][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-14.47.09:279][971]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 10:47:09)
+[2017.12.02-14.47.09:279][971]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-14.47.09:479][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.200254s)
+[2017.12.02-14.47.09:481][971]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-14.47.09:481][971]LogPlayLevel: PIE: World Init took: (0.001854s)
+[2017.12.02-14.47.09:482][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.202669s)
+[2017.12.02-14.47.09:528][971]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-14.47.09:547][971]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-12.47.09
+[2017.12.02-14.47.09:548][971]LogWorld: Bringing up level for play took: 0.019406
+[2017.12.02-14.47.09:549][971]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,725
+[2017.12.02-14.47.09:562][971]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.47.35:866][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.47.35:939][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.47.43:808][ 97]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight12)
+[2017.12.02-14.47.48:082][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube9)
+[2017.12.02-14.47.49:179][180]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight12)
+[2017.12.02-14.47.53:011][314]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2017.12.02-14.48.00:941][566]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight22)
+[2017.12.02-14.48.05:768][726]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2017.12.02-14.48.12:235][945]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2017.12.02-14.48.19:250][146]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2017.12.02-14.48.28:834][464]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight6)
+[2017.12.02-14.48.34:293][639]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2017.12.02-14.48.42:954][905]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight5)
+[2017.12.02-14.48.43:298][914]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.02-14.48.51:137][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube)
+[2017.12.02-14.48.51:802][162]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.12.02-14.48.54:836][250]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2017.12.02-14.48.59:447][375]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2017.12.02-14.49.01:318][428]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-14.49.01:423][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.49.01:423][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-14.49.01:423][428]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 10:49:01)
+[2017.12.02-14.49.01:423][428]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-14.49.01:546][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123407s)
+[2017.12.02-14.49.01:548][428]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-14.49.01:548][428]LogPlayLevel: PIE: World Init took: (0.001710s)
+[2017.12.02-14.49.01:549][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.125983s)
+[2017.12.02-14.49.01:599][428]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-14.49.01:621][428]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-12.49.01
+[2017.12.02-14.49.01:622][428]LogWorld: Bringing up level for play took: 0.021447
+[2017.12.02-14.49.01:623][428]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,796
+[2017.12.02-14.49.01:624][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.49.24:074][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.49.24:154][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 0 (Connection 1 seems to be dead!)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 1 (Closing connection 1)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 3 (  Trying 52.21.10.217...)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.21.10.217) port 443 (#2))
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 7 (SSL re-using session ID)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 12 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 13 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 14 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 15 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 16 (TLSv1.2 (IN), TLS change cipher, Client hello (1):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 18 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 19 (ALPN, server did not agree to a protocol)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 20 (old SSL session ID is stale, removing)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 21 (Server certificate:)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 22 (	 subject: CN=*.ol.epicgames.com)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 23 (	 start date: Mar 23 00:00:00 2017 GMT)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 24 (	 expire date: Apr 23 12:00:00 2018 GMT)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 25 (	 subjectAltName: datarouter.ol.epicgames.com matched)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 26 (	 issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 27 (	 SSL certificate verify ok.)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 28 (upload completely sent off: 903 out of 903 bytes)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 29 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.12.02-14.49.39:997][645]LogHttp: Warning: 0000000080681900: libcurl info message cache 30 (Closing connection 2)
+[2017.12.02-14.49.42:793][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube8)
+[2017.12.02-14.49.56:538][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube8)
+[2017.12.02-14.50.17:651][930]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-14.50.17:761][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.50.17:761][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-14.50.17:761][930]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 10:50:17)
+[2017.12.02-14.50.17:761][930]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-14.50.17:890][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129235s)
+[2017.12.02-14.50.17:892][930]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-14.50.17:893][930]LogPlayLevel: PIE: World Init took: (0.002130s)
+[2017.12.02-14.50.17:893][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.132368s)
+[2017.12.02-14.50.17:939][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-14.50.17:964][930]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-12.50.17
+[2017.12.02-14.50.17:965][930]LogWorld: Bringing up level for play took: 0.025273
+[2017.12.02-14.50.17:967][930]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,139
+[2017.12.02-14.50.17:968][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.50.22:484][ 45]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.50.22:561][ 45]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.50.22:803][ 51]Cmd: SELECT NONE
+[2017.12.02-14.50.26:240][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube8)
+[2017.12.02-14.50.33:822][405]Cmd: DELETE
+[2017.12.02-14.50.33:823][405]Cmd: ACTOR DELETE
+[2017.12.02-14.50.33:841][405]LogEditorActor: Deleted Actor: Brush
+[2017.12.02-14.50.34:142][405]LogEditorActor: Deleted 1 Actors (0.308 secs)
+[2017.12.02-14.50.43:832][705]Cmd: DELETE
+[2017.12.02-14.50.43:832][705]Cmd: ACTOR DELETE
+[2017.12.02-14.50.43:841][705]LogEditorActor: Deleted Actor: Brush
+[2017.12.02-14.50.44:135][705]LogEditorActor: Deleted 1 Actors (0.303 secs)
+[2017.12.02-14.50.53:837][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame5)
+[2017.12.02-14.50.55:242][ 89]Cmd: DELETE
+[2017.12.02-14.50.55:242][ 89]Cmd: ACTOR DELETE
+[2017.12.02-14.50.55:257][ 89]LogEditorActor: Deleted Actor: Brush
+[2017.12.02-14.50.55:548][ 89]LogEditorActor: Deleted 1 Actors (0.305 secs)
+[2017.12.02-14.51.28:353][151]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-14.51.28:458][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.51.28:458][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-14.51.28:458][151]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 10:51:28)
+[2017.12.02-14.51.28:458][151]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-14.51.28:588][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129942s)
+[2017.12.02-14.51.28:589][151]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-14.51.28:589][151]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2017.12.02-14.51.28:590][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.131769s)
+[2017.12.02-14.51.28:650][151]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-14.51.28:671][151]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-12.51.28
+[2017.12.02-14.51.28:672][151]LogWorld: Bringing up level for play took: 0.020507
+[2017.12.02-14.51.28:673][151]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,156
+[2017.12.02-14.51.28:674][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.51.44:718][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.51.44:793][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.52.08:465][433]Cmd: TRANSACTION UNDO
+[2017.12.02-14.52.08:465][433]LogEditorTransaction: Undo Move Actors
+[2017.12.02-14.52.08:531][433]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CaixaPincel2.BrushComponent0) Component already registered.
+[2017.12.02-14.52.08:534][433]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CilindroPincel19.BrushComponent0) Component already registered.
+[2017.12.02-14.52.08:535][433]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2017.12.02-14.52.08:576][433]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush99.BrushComponent0) Component already registered.
+[2017.12.02-14.52.08:578][433]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BoxBrush114.BrushComponent0) Component already registered.
+[2017.12.02-14.52.08:580][433]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.CilindroPincel11.BrushComponent0) Component already registered.
+[2017.12.02-14.52.08:733][433]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-14.53.40:582][631]Cmd: DELETE
+[2017.12.02-14.53.40:582][631]Cmd: ACTOR DELETE
+[2017.12.02-14.53.40:593][631]LogEditorActor: Deleted Actor: Brush
+[2017.12.02-14.53.40:917][631]LogEditorActor: Deleted 1 Actors (0.335 secs)
+[2017.12.02-14.53.46:837][861]LogEditorViewport: Clicking Background
+[2017.12.02-14.53.48:509][935]Cmd: TRANSACTION UNDO
+[2017.12.02-14.53.48:509][935]LogEditorTransaction: Undo Clicando no Fundo
+[2017.12.02-14.53.49:762][979]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush46)
+[2017.12.02-14.54.34:021][680]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-14.54.38:323][680]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.54.38:323][680]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-14.54.38:323][680]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 10:54:38)
+[2017.12.02-14.54.38:323][680]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-14.54.38:456][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133063s)
+[2017.12.02-14.54.38:458][680]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-14.54.38:459][680]LogPlayLevel: PIE: World Init took: (0.002090s)
+[2017.12.02-14.54.38:460][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.136835s)
+[2017.12.02-14.54.38:518][680]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-14.54.38:541][680]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-12.54.38
+[2017.12.02-14.54.38:543][680]LogWorld: Bringing up level for play took: 0.024027
+[2017.12.02-14.54.38:546][680]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,287
+[2017.12.02-14.54.38:547][680]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.54.55:073][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.54.55:155][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-14.55.51:875][733]Cmd: POLY TEXSCALE  UU=0.487805 VV=0.400000
+[2017.12.02-14.56.13:791][252]Cmd: POLY TEXSCALE  UU=0.487805 VV=0.400000
+[2017.12.02-14.56.32:684][762]Cmd: POLY TEXSCALE  UU=0.487805 VV=0.400000
+[2017.12.02-14.56.48:685][194]Cmd: POLY TEXSCALE  UU=0.487805 VV=0.400000
+[2017.12.02-14.57.04:612][605]Cmd: POLY TEXSCALE  UU=0.487805 VV=0.400000
+[2017.12.02-14.57.09:506][737]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.02-14.57.09:526][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap" FILE="D:/BLOCAGEMCENARIO/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.12.02-14.57.25:593][737]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.02-15.06.54:721][737]LogSavePackage: Save=571482.19ms
+[2017.12.02-15.06.54:722][737]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/ThirdPersonExampleMap3868DA7C4E74EA4B94D8B7A12BE80698.tmp' to 'D:/BLOCAGEMCENARIO/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.12.02-15.06.54:992][737]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.12.02-15.06.55:247][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/BLOCAGEMCENARIO/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2017.12.02-15.07.07:238][737]LogSavePackage: Save=11267.31ms
+[2017.12.02-15.07.07:238][737]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/ThirdPersonExampleMap_BuiltData4F327BBA4698849F1083538D320CA14C.tmp' to 'D:/BLOCAGEMCENARIO/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.12.02-15.07.07:300][737]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.12.02-15.36.18:330][ 81]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Aluno/Desktop/Female_Blue01.obj)
+[2017.12.02-15.36.18:368][ 81]LogFbx: Loading FBX Scene from ../../../../../../Users/Aluno/Desktop/Female_Blue01.obj
+[2017.12.02-15.36.19:511][ 81]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.02-15.36.21:149][ 81]LogFbx: Loading FBX Scene from ../../../../../../Users/Aluno/Desktop/Female_Blue01.obj
+[2017.12.02-15.36.22:275][ 81]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.02-15.36.22:290][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object001Mat”
+[2017.12.02-15.36.22:290][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object001Mat”
+[2017.12.02-15.36.22:371][ 81]LogMaterial: Missing cached shader map for material Object001Mat, compiling. 
+[2017.12.02-15.36.22:433][ 81]LogStaticMesh: Criando malha estática Female_Blue01_Object001...
+[2017.12.02-15.36.22:459][ 81]LogStaticMesh: Built static mesh [0.03s] /Game/Female_Blue01_Object001.Female_Blue01_Object001
+[2017.12.02-15.36.22:678][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object002Mat”
+[2017.12.02-15.36.22:679][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object002Mat”
+[2017.12.02-15.36.22:758][ 81]LogMaterial: Missing cached shader map for material Object002Mat, compiling. 
+[2017.12.02-15.36.22:848][ 81]LogStaticMesh: Criando malha estática Female_Blue01_Object002...
+[2017.12.02-15.36.22:853][ 81]LogStaticMesh: Built static mesh [0.01s] /Game/Female_Blue01_Object002.Female_Blue01_Object002
+[2017.12.02-15.36.22:938][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object003Mat”
+[2017.12.02-15.36.22:939][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object003Mat”
+[2017.12.02-15.36.23:022][ 81]LogMaterial: Missing cached shader map for material Object003Mat, compiling. 
+[2017.12.02-15.36.23:136][ 81]LogStaticMesh: Criando malha estática Female_Blue01_Object003...
+[2017.12.02-15.36.23:148][ 81]LogStaticMesh: Built static mesh [0.01s] /Game/Female_Blue01_Object003.Female_Blue01_Object003
+[2017.12.02-15.36.23:274][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object004Mat”
+[2017.12.02-15.36.23:275][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object004Mat”
+[2017.12.02-15.36.23:360][ 81]LogMaterial: Missing cached shader map for material Object004Mat, compiling. 
+[2017.12.02-15.36.23:475][ 81]LogStaticMesh: Criando malha estática Female_Blue01_Object004...
+[2017.12.02-15.36.23:571][ 81]LogStaticMesh: Built static mesh [0.10s] /Game/Female_Blue01_Object004.Female_Blue01_Object004
+[2017.12.02-15.36.23:676][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object005Mat”
+[2017.12.02-15.36.23:678][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object005Mat”
+[2017.12.02-15.36.23:759][ 81]LogMaterial: Missing cached shader map for material Object005Mat, compiling. 
+[2017.12.02-15.36.23:871][ 81]LogStaticMesh: Criando malha estática Female_Blue01_Object005...
+[2017.12.02-15.36.23:945][ 81]LogStaticMesh: Built static mesh [0.07s] /Game/Female_Blue01_Object005.Female_Blue01_Object005
+[2017.12.02-15.36.24:175][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object006Mat”
+[2017.12.02-15.36.24:176][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Object006Mat”
+[2017.12.02-15.36.24:260][ 81]LogMaterial: Missing cached shader map for material Object006Mat, compiling. 
+[2017.12.02-15.36.24:405][ 81]LogStaticMesh: Criando malha estática Female_Blue01_Object006...
+[2017.12.02-15.36.24:465][ 81]LogStaticMesh: Built static mesh [0.06s] /Game/Female_Blue01_Object006.Female_Blue01_Object006
+[2017.12.02-15.36.24:477][ 81]LogStaticMesh: Warning: Female_Blue01_Object006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.02-15.36.24:560][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/PC_TP_Female_Blue01_LobbyMat”
+[2017.12.02-15.36.24:561][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/PC_TP_Female_Blue01_LobbyMat”
+[2017.12.02-15.36.24:646][ 81]LogMaterial: Missing cached shader map for material PC_TP_Female_Blue01_LobbyMat, compiling. 
+[2017.12.02-15.36.24:769][ 81]LogStaticMesh: Criando malha estática Female_Blue01_PC_TP_Female_Blue01_Lobby...
+[2017.12.02-15.36.24:908][ 81]LogStaticMesh: Built static mesh [0.14s] /Game/Female_Blue01_PC_TP_Female_Blue01_Lobby.Female_Blue01_PC_TP_Female_Blue01_Lobby
+[2017.12.02-15.36.25:015][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/PC_TP_Female_Blue01_Lobby_BagMat”
+[2017.12.02-15.36.25:017][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/PC_TP_Female_Blue01_Lobby_BagMat”
+[2017.12.02-15.36.25:103][ 81]LogMaterial: Missing cached shader map for material PC_TP_Female_Blue01_Lobby_BagMat, compiling. 
+[2017.12.02-15.36.25:215][ 81]LogStaticMesh: Criando malha estática Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag...
+[2017.12.02-15.36.25:243][ 81]LogStaticMesh: Built static mesh [0.03s] /Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag.Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag
+[2017.12.02-15.36.25:349][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/PC_TP_Female_Blue01_Lobby_HairMat”
+[2017.12.02-15.36.25:350][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/PC_TP_Female_Blue01_Lobby_HairMat”
+[2017.12.02-15.36.25:438][ 81]LogMaterial: Missing cached shader map for material PC_TP_Female_Blue01_Lobby_HairMat, compiling. 
+[2017.12.02-15.36.25:537][ 81]LogStaticMesh: Criando malha estática Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair...
+[2017.12.02-15.36.25:546][ 81]LogStaticMesh: Built static mesh [0.01s] /Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair.Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair
+[2017.12.02-15.36.25:762][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Text001Mat”
+[2017.12.02-15.36.25:764][ 81]LogLinker: Não é possível encontrar o arquivo “/Game/Text001Mat”
+[2017.12.02-15.36.25:847][ 81]LogMaterial: Missing cached shader map for material Text001Mat, compiling. 
+[2017.12.02-15.36.25:889][ 81]LogFbx: Warning: Triangulating static mesh Text001
+[2017.12.02-15.36.26:031][ 81]LogStaticMesh: Criando malha estática Female_Blue01_Text001...
+[2017.12.02-15.36.26:040][ 81]LogStaticMesh: Built static mesh [0.01s] /Game/Female_Blue01_Text001.Female_Blue01_Text001
+[2017.12.02-15.36.26:043][ 81]LogStaticMesh: Warning: Female_Blue01_Text001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.12.02-15.36.26:127][ 81]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.12.02-15.36.26:129][ 81]FBXImport: Warning: Female_Blue01_Object006 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.02-15.36.26:129][ 81]FBXImport: Warning: Female_Blue01_Text001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.12.02-15.36.38:710][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.011
+[2017.12.02-15.36.38:713][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_Object001] ([1] browsable assets)...
+[2017.12.02-15.36.38:733][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_Object001.Female_Blue01_Object001]
+[2017.12.02-15.36.38:733][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_Object001]
+[2017.12.02-15.36.38:733][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Female_Blue01_Object001" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object001_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.40:863][381]LogSavePackage: Save=2055.27ms
+[2017.12.02-15.36.40:863][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_Object001_Auto1D33FD0FB49DB383FB275A682524AAF76.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object001_Auto1.uasset'
+[2017.12.02-15.36.40:885][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object001_Auto1.uasset
+[2017.12.02-15.36.40:888][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object001Mat] ([1] browsable assets)...
+[2017.12.02-15.36.40:907][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Object001Mat.Object001Mat]
+[2017.12.02-15.36.40:907][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object001Mat]
+[2017.12.02-15.36.40:907][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Object001Mat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object001Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.44:505][381]LogSavePackage: Save=3401.84ms
+[2017.12.02-15.36.44:507][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Object001Mat_Auto15CEB3AF84624EBE7BF41B086BCA8887F.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object001Mat_Auto1.uasset'
+[2017.12.02-15.36.44:530][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object001Mat_Auto1.uasset
+[2017.12.02-15.36.44:532][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_Object002] ([1] browsable assets)...
+[2017.12.02-15.36.44:551][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_Object002.Female_Blue01_Object002]
+[2017.12.02-15.36.44:551][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_Object002]
+[2017.12.02-15.36.44:551][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Female_Blue01_Object002" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object002_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.48:248][381]LogSavePackage: Save=3627.29ms
+[2017.12.02-15.36.48:248][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_Object002_Auto1F40040164F090B1BABF86D8F04E53997.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object002_Auto1.uasset'
+[2017.12.02-15.36.48:264][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object002_Auto1.uasset
+[2017.12.02-15.36.48:267][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object002Mat] ([1] browsable assets)...
+[2017.12.02-15.36.48:286][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Object002Mat.Object002Mat]
+[2017.12.02-15.36.48:287][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object002Mat]
+[2017.12.02-15.36.48:289][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Object002Mat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object002Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.48:610][381]LogSavePackage: Save=247.48ms
+[2017.12.02-15.36.48:610][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Object002Mat_Auto18CB20E7344231DAC8BA309971E6FDF88.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object002Mat_Auto1.uasset'
+[2017.12.02-15.36.48:630][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object002Mat_Auto1.uasset
+[2017.12.02-15.36.48:632][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_Object003] ([1] browsable assets)...
+[2017.12.02-15.36.48:651][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_Object003.Female_Blue01_Object003]
+[2017.12.02-15.36.48:651][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_Object003]
+[2017.12.02-15.36.48:651][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Female_Blue01_Object003" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object003_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.50:821][381]LogSavePackage: Save=2095.11ms
+[2017.12.02-15.36.50:821][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_Object003_Auto192AE111B4594FA38930D2DAD6F579A66.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object003_Auto1.uasset'
+[2017.12.02-15.36.50:837][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object003_Auto1.uasset
+[2017.12.02-15.36.50:840][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object003Mat] ([1] browsable assets)...
+[2017.12.02-15.36.50:858][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Object003Mat.Object003Mat]
+[2017.12.02-15.36.50:858][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object003Mat]
+[2017.12.02-15.36.50:858][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Object003Mat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object003Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.51:178][381]LogSavePackage: Save=244.68ms
+[2017.12.02-15.36.51:180][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Object003Mat_Auto1242F39CF4B295D731F47A38679610614.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object003Mat_Auto1.uasset'
+[2017.12.02-15.36.51:315][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object003Mat_Auto1.uasset
+[2017.12.02-15.36.51:317][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_Object004] ([1] browsable assets)...
+[2017.12.02-15.36.51:336][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_Object004.Female_Blue01_Object004]
+[2017.12.02-15.36.51:336][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_Object004]
+[2017.12.02-15.36.51:336][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Female_Blue01_Object004" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object004_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.54:347][381]LogSavePackage: Save=2934.21ms
+[2017.12.02-15.36.54:347][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_Object004_Auto1A90F2C6F4722BD6CFA19D78574005641.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object004_Auto1.uasset'
+[2017.12.02-15.36.54:363][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object004_Auto1.uasset
+[2017.12.02-15.36.54:366][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object004Mat] ([1] browsable assets)...
+[2017.12.02-15.36.54:385][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Object004Mat.Object004Mat]
+[2017.12.02-15.36.54:385][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object004Mat]
+[2017.12.02-15.36.54:385][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Object004Mat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object004Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.54:586][381]LogSavePackage: Save=125.97ms
+[2017.12.02-15.36.54:586][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Object004Mat_Auto1E58EFE764827C534BA2C4BA7659E14AA.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object004Mat_Auto1.uasset'
+[2017.12.02-15.36.54:606][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object004Mat_Auto1.uasset
+[2017.12.02-15.36.54:609][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_Object005] ([1] browsable assets)...
+[2017.12.02-15.36.54:627][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_Object005.Female_Blue01_Object005]
+[2017.12.02-15.36.54:627][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_Object005]
+[2017.12.02-15.36.54:627][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Female_Blue01_Object005" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object005_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.58:877][381]LogSavePackage: Save=4051.98ms
+[2017.12.02-15.36.58:877][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_Object005_Auto122C17C4044CD679183463B800FC6340F.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object005_Auto1.uasset'
+[2017.12.02-15.36.58:893][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object005_Auto1.uasset
+[2017.12.02-15.36.58:896][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object005Mat] ([1] browsable assets)...
+[2017.12.02-15.36.58:915][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Object005Mat.Object005Mat]
+[2017.12.02-15.36.58:915][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object005Mat]
+[2017.12.02-15.36.58:915][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Object005Mat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object005Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.36.59:102][381]LogSavePackage: Save=112.43ms
+[2017.12.02-15.36.59:102][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Object005Mat_Auto135C465644F7B247D442CB297DD669620.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object005Mat_Auto1.uasset'
+[2017.12.02-15.36.59:122][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object005Mat_Auto1.uasset
+[2017.12.02-15.36.59:125][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_Object006] ([1] browsable assets)...
+[2017.12.02-15.36.59:144][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_Object006.Female_Blue01_Object006]
+[2017.12.02-15.36.59:144][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_Object006]
+[2017.12.02-15.36.59:144][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Female_Blue01_Object006" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object006_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.37.02:365][381]LogSavePackage: Save=3142.29ms
+[2017.12.02-15.37.02:365][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_Object006_Auto12904A3D24F5FE7123BE4C6BCA926A1A5.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object006_Auto1.uasset'
+[2017.12.02-15.37.02:381][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Object006_Auto1.uasset
+[2017.12.02-15.37.02:385][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object006Mat] ([1] browsable assets)...
+[2017.12.02-15.37.02:404][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Object006Mat.Object006Mat]
+[2017.12.02-15.37.02:405][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object006Mat]
+[2017.12.02-15.37.02:405][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Object006Mat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object006Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.37.02:574][381]LogSavePackage: Save=96.56ms
+[2017.12.02-15.37.02:574][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Object006Mat_Auto11BB6B49840CC895551474D993A1A5E6A.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object006Mat_Auto1.uasset'
+[2017.12.02-15.37.02:595][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Object006Mat_Auto1.uasset
+[2017.12.02-15.37.02:597][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby] ([1] browsable assets)...
+[2017.12.02-15.37.02:616][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_PC_TP_Female_Blue01_Lobby.Female_Blue01_PC_TP_Female_Blue01_Lobby]
+[2017.12.02-15.37.02:616][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby]
+[2017.12.02-15.37.06:755][381]LogSavePackage: Save=4065.17ms
+[2017.12.02-15.37.06:755][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_PC_TP_Female_Blue01_Lobby_Auto10B612CDB45F25806010C75BF21937B20.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Auto1.uasset'
+[2017.12.02-15.37.06:770][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Auto1.uasset
+[2017.12.02-15.37.06:773][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PC_TP_Female_Blue01_LobbyMat] ([1] browsable assets)...
+[2017.12.02-15.37.06:821][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PC_TP_Female_Blue01_LobbyMat.PC_TP_Female_Blue01_LobbyMat]
+[2017.12.02-15.37.06:821][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_TP_Female_Blue01_LobbyMat]
+[2017.12.02-15.37.06:823][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_TP_Female_Blue01_LobbyMat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/PC_TP_Female_Blue01_LobbyMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.37.07:117][381]LogSavePackage: Save=220.33ms
+[2017.12.02-15.37.07:117][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/PC_TP_Female_Blue01_LobbyMat_Auto15F46199447127B5413EF4A879321D229.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/PC_TP_Female_Blue01_LobbyMat_Auto1.uasset'
+[2017.12.02-15.37.07:137][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/PC_TP_Female_Blue01_LobbyMat_Auto1.uasset
+[2017.12.02-15.37.07:140][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag] ([1] browsable assets)...
+[2017.12.02-15.37.07:187][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag.Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag]
+[2017.12.02-15.37.07:187][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag]
+[2017.12.02-15.37.11:349][381]LogSavePackage: Save=2100.79ms
+[2017.12.02-15.37.11:349][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag_Auto1C386B42C454278C5C257628C78631BE6.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag_Auto1.uasset'
+[2017.12.02-15.37.11:365][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Bag_Auto1.uasset
+[2017.12.02-15.37.11:368][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PC_TP_Female_Blue01_Lobby_BagMat] ([1] browsable assets)...
+[2017.12.02-15.37.11:413][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PC_TP_Female_Blue01_Lobby_BagMat.PC_TP_Female_Blue01_Lobby_BagMat]
+[2017.12.02-15.37.11:413][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_TP_Female_Blue01_Lobby_BagMat]
+[2017.12.02-15.37.11:413][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_TP_Female_Blue01_Lobby_BagMat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/PC_TP_Female_Blue01_Lobby_BagMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.37.11:585][381]LogSavePackage: Save=91.91ms
+[2017.12.02-15.37.11:585][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/PC_TP_Female_Blue01_Lobby_BagMat_Auto1964ED422488F997F0F37F4B538D9B4C6.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/PC_TP_Female_Blue01_Lobby_BagMat_Auto1.uasset'
+[2017.12.02-15.37.11:604][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/PC_TP_Female_Blue01_Lobby_BagMat_Auto1.uasset
+[2017.12.02-15.37.11:607][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair] ([1] browsable assets)...
+[2017.12.02-15.37.11:651][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair.Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair]
+[2017.12.02-15.37.11:651][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair]
+[2017.12.02-15.37.14:989][381]LogSavePackage: Save=3257.73ms
+[2017.12.02-15.37.14:990][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair_Auto1ABE8C3D6438759C3E99ADFA9D65FA446.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair_Auto1.uasset'
+[2017.12.02-15.37.15:006][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_PC_TP_Female_Blue01_Lobby_Hair_Auto1.uasset
+[2017.12.02-15.37.15:010][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PC_TP_Female_Blue01_Lobby_HairMat] ([1] browsable assets)...
+[2017.12.02-15.37.15:054][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/PC_TP_Female_Blue01_Lobby_HairMat.PC_TP_Female_Blue01_Lobby_HairMat]
+[2017.12.02-15.37.15:054][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_TP_Female_Blue01_Lobby_HairMat]
+[2017.12.02-15.37.15:054][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_TP_Female_Blue01_Lobby_HairMat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/PC_TP_Female_Blue01_Lobby_HairMat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.37.15:222][381]LogSavePackage: Save=92.03ms
+[2017.12.02-15.37.15:222][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/PC_TP_Female_Blue01_Lobby_HairMat_Auto1641D95E94605F3AAA0E85CB44B3D0CA0.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/PC_TP_Female_Blue01_Lobby_HairMat_Auto1.uasset'
+[2017.12.02-15.37.15:242][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/PC_TP_Female_Blue01_Lobby_HairMat_Auto1.uasset
+[2017.12.02-15.37.15:244][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Female_Blue01_Text001] ([1] browsable assets)...
+[2017.12.02-15.37.15:287][381]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Female_Blue01_Text001.Female_Blue01_Text001]
+[2017.12.02-15.37.15:287][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Female_Blue01_Text001]
+[2017.12.02-15.37.15:288][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Female_Blue01_Text001" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Text001_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.37.17:114][381]LogSavePackage: Save=1752.04ms
+[2017.12.02-15.37.17:114][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Female_Blue01_Text001_Auto19C9B1C6144069D1211BACC9A5E9648CF.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Text001_Auto1.uasset'
+[2017.12.02-15.37.17:130][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Female_Blue01_Text001_Auto1.uasset
+[2017.12.02-15.37.17:133][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Text001Mat] ([1] browsable assets)...
+[2017.12.02-15.37.17:176][381]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Text001Mat.Text001Mat]
+[2017.12.02-15.37.17:176][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Text001Mat]
+[2017.12.02-15.37.17:176][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text001Mat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Text001Mat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.37.17:462][381]LogSavePackage: Save=212.14ms
+[2017.12.02-15.37.17:464][381]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Text001Mat_Auto1B9DE8BAE491465865F2E5FA6E93793CA.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Text001Mat_Auto1.uasset'
+[2017.12.02-15.37.17:485][381]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Text001Mat_Auto1.uasset
+[2017.12.02-15.37.17:485][381]LogFileHelpers: Auto-saving content packages took 38.774
+[2017.12.02-15.37.45:642][505]LogActorFactory: Actor Factory created Female_Blue01_PC_TP_Female_Blue01_Lobby
+[2017.12.02-15.37.47:691][547]LogActorFactory: Actor Factory created Female_Blue01_PC_TP_Female_Blue01_Lobby
+[2017.12.02-15.37.56:704][778]Cmd: DELETE
+[2017.12.02-15.37.56:704][778]Cmd: ACTOR DELETE
+[2017.12.02-15.37.56:709][778]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.02-15.37.56:740][778]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.12.02-15.38.45:156][507]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight11)
+[2017.12.02-15.38.55:318][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube41)
+[2017.12.02-15.41.37:110][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube104)
+[2017.12.02-15.41.37:828][593]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight24)
+[2017.12.02-15.41.41:895][718]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight26)
+[2017.12.02-15.41.44:729][806]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight30)
+[2017.12.02-15.41.51:697][ 23]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight31)
+[2017.12.02-15.41.56:231][163]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight31)
+[2017.12.02-15.42.04:578][392]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Explosion2)
+[2017.12.02-15.42.06:500][442]Cmd: DELETE
+[2017.12.02-15.42.06:500][442]Cmd: ACTOR DELETE
+[2017.12.02-15.42.06:506][442]LogEditorActor: Deleted Actor: Emitter
+[2017.12.02-15.42.06:521][442]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.12.02-15.42.18:121][790]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-15.42.18:239][790]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.42.18:239][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-15.42.18:239][790]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 11:42:18)
+[2017.12.02-15.42.18:239][790]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-15.42.18:418][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178592s)
+[2017.12.02-15.42.18:419][790]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-15.42.18:419][790]LogPlayLevel: PIE: World Init took: (0.001533s)
+[2017.12.02-15.42.18:420][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.180878s)
+[2017.12.02-15.42.18:465][790]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-15.42.18:484][790]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-13.42.18
+[2017.12.02-15.42.18:485][790]LogWorld: Bringing up level for play took: 0.019424
+[2017.12.02-15.42.18:487][790]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,392
+[2017.12.02-15.42.18:487][790]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.42.54:099][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.42.54:171][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.42.57:409][ 51]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight30)
+[2017.12.02-15.43.02:809][211]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight30)
+[2017.12.02-15.43.05:181][281]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight25)
+[2017.12.02-15.43.07:366][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shape_Cube104)
+[2017.12.02-15.43.08:238][369]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight24)
+[2017.12.02-15.43.13:558][506]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume2)
+[2017.12.02-15.45.15:662][ 53]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.12.02-15.45.19:161][ 72]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Aluno/Desktop/body.tga)
+[2017.12.02-15.45.19:207][ 72]LogTexture: Display: Building textures: body (AutoDXT, 1024X1024)
+[2017.12.02-15.45.23:695][171]LogMaterial: Missing cached shader map for material body_Mat, compiling. 
+[2017.12.02-15.45.26:954][259]Cmd: TRANSACTION UNDO
+[2017.12.02-15.45.26:955][259]LogEditorTransaction: Undo Criar Atores
+[2017.12.02-15.45.27:026][259]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_2182' invalid (34022 verts, 0 indices).
+[2017.12.02-15.45.27:026][259]LogPhysics: Warning: Attempt to build physics data for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ModelComponent_2182.BodySetup_2183 when we are unable to.
+[2017.12.02-15.45.40:986][372]LogMaterial: Missing cached shader map for material body_Mat, compiling. 
+[2017.12.02-15.45.40:987][372]LogMaterial: Warning: Failed to compile Material /Game/body_Mat.body_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.02-15.45.40:987][372]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.12.02-15.45.46:372][500]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight31)
+[2017.12.02-15.45.58:852][837]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-15.46.03:128][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.46.03:128][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-15.46.03:128][837]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 11:46:03)
+[2017.12.02-15.46.03:128][837]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-15.46.03:243][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115117s)
+[2017.12.02-15.46.03:244][837]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-15.46.03:245][837]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2017.12.02-15.46.03:245][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.116834s)
+[2017.12.02-15.46.03:289][837]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-15.46.03:307][837]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-13.46.03
+[2017.12.02-15.46.03:308][837]LogWorld: Bringing up level for play took: 0.018415
+[2017.12.02-15.46.03:309][837]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,427
+[2017.12.02-15.46.03:320][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.46.05:574][883]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.46.05:669][883]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.47.05:500][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door11)
+[2017.12.02-15.47.22:535][168]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-15.47.22:638][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.47.22:638][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-15.47.22:638][168]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 11:47:22)
+[2017.12.02-15.47.22:639][168]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-15.47.22:763][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124038s)
+[2017.12.02-15.47.22:764][168]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-15.47.22:764][168]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2017.12.02-15.47.22:765][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.126415s)
+[2017.12.02-15.47.22:807][168]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-15.47.22:831][168]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-13.47.22
+[2017.12.02-15.47.22:832][168]LogWorld: Bringing up level for play took: 0.023701
+[2017.12.02-15.47.22:834][168]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,05
+[2017.12.02-15.47.22:835][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.47.32:681][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.47.32:771][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.47.33:822][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door11)
+[2017.12.02-15.48.11:589][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door11)
+[2017.12.02-15.48.13:217][156]LogSlate: Took 0.001952 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.02-15.48.50:585][140]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.02-15.48.50:825][140]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.48.50:825][140]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.02-15.48.50:825][140]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (02/12/2017 11:48:50)
+[2017.12.02-15.48.50:825][140]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.12.02-15.48.50:946][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.121231s)
+[2017.12.02-15.48.50:948][140]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.12.02-15.48.50:948][140]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2017.12.02-15.48.50:948][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.123364s)
+[2017.12.02-15.48.50:995][140]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.12.02-15.48.51:017][140]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.12.02-13.48.51
+[2017.12.02-15.48.51:018][140]LogWorld: Bringing up level for play took: 0.022281
+[2017.12.02-15.48.51:020][140]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,135
+[2017.12.02-15.48.51:021][140]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.48.57:629][304]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.48.57:720][304]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.12.02-15.59.12:443][600]LogSavePackage: Save=573874.56ms
+[2017.12.02-15.59.12:444][600]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/ThirdPersonExampleMap_Auto2A738C040457BB874E38E48B95412D259.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2017.12.02-15.59.16:588][600]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2017.12.02-15.59.16:659][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 584.227
+[2017.12.02-15.59.16:659][600]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 584.227
+[2017.12.02-15.59.16:664][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/body_Mat] ([1] browsable assets)...
+[2017.12.02-15.59.16:755][600]OBJ SavePackage:     Rendered thumbnail for [Material /Game/body_Mat.body_Mat]
+[2017.12.02-15.59.16:756][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/body_Mat]
+[2017.12.02-15.59.16:756][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/body_Mat" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/body_Mat_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-15.59.17:072][600]LogSavePackage: Save=117.18ms
+[2017.12.02-15.59.17:072][600]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/body_Mat_Auto22C9EA57549BCE46411B4509F942641A3.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/body_Mat_Auto2.uasset'
+[2017.12.02-15.59.17:092][600]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/body_Mat_Auto2.uasset
+[2017.12.02-15.59.17:092][600]LogFileHelpers: Auto-saving content packages took 0.431
+[2017.12.02-16.09.34:969][788]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.12.02-16.09.38:453][914]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2017.12.02-16.09.39:281][942]Cmd: DELETE
+[2017.12.02-16.09.39:281][942]Cmd: ACTOR DELETE
+[2017.12.02-16.09.39:287][942]LogEditorActor: Deleted Actor: Actor
+[2017.12.02-16.09.39:309][942]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2017.12.02-16.09.47:593][ 40]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/chaves.obj)
+[2017.12.02-16.09.47:604][ 40]LogFbx: Loading FBX Scene from D:/chaves.obj
+[2017.12.02-16.09.47:612][ 40]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.02-16.09.49:594][ 40]LogFbx: Loading FBX Scene from D:/chaves.obj
+[2017.12.02-16.09.49:601][ 40]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.02-16.09.49:602][ 40]LogLinker: Não é possível encontrar o arquivo “/Game/initialShadingGroup”
+[2017.12.02-16.09.49:603][ 40]LogLinker: Não é possível encontrar o arquivo “/Game/initialShadingGroup”
+[2017.12.02-16.09.49:684][ 40]LogMaterial: Missing cached shader map for material initialShadingGroup, compiling. 
+[2017.12.02-16.09.49:707][ 40]LogFbx: Warning: Triangulating static mesh pTorus2
+[2017.12.02-16.09.49:767][ 40]LogStaticMesh: Criando malha estática chaves...
+[2017.12.02-16.09.49:778][ 40]LogStaticMesh: Built static mesh [0.01s] /Game/chaves.chaves
+[2017.12.02-16.09.49:860][ 40]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.12.02-16.09.55:198][196]LogActorFactory: Actor Factory created chaves
+[2017.12.02-16.09.56:217][230]LogActorFactory: Actor Factory created chaves
+[2017.12.02-16.09.59:557][355]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.02-16.10.32:996][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow5)
+[2017.12.02-16.10.35:078][599]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2017.12.02-16.10.49:149][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chaves)
+[2017.12.02-16.10.52:432][209]Cmd: DELETE
+[2017.12.02-16.10.52:432][209]Cmd: ACTOR DELETE
+[2017.12.02-16.10.52:437][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.02-16.10.52:457][209]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2017.12.02-16.11.16:563][713]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 113 classes and 0 folders.
+[2017.12.02-16.22.36:753][920]LogSavePackage: Save=586583.75ms
+[2017.12.02-16.22.36:754][920]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/ThirdPersonExampleMap_Auto3DC42307F47CECCC8237A37B2E7A686A2.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2017.12.02-16.22.36:956][920]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2017.12.02-16.22.37:027][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 598.981
+[2017.12.02-16.22.37:027][920]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 598.981
+[2017.12.02-16.22.37:033][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chavescoletavel] ([1] browsable assets)...
+[2017.12.02-16.22.37:033][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chavescoletavel]
+[2017.12.02-16.22.37:033][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Chavescoletavel" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Chavescoletavel_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-16.22.40:605][920]LogSavePackage: Save=3494.76ms
+[2017.12.02-16.22.40:605][920]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/Chavescoletavel_Auto3C530C4C74082F47B25371FAAED13989B.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Chavescoletavel_Auto3.uasset'
+[2017.12.02-16.22.42:686][920]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/Chavescoletavel_Auto3.uasset
+[2017.12.02-16.22.42:688][920]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/chaves] ([1] browsable assets)...
+[2017.12.02-16.22.42:765][920]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/chaves.chaves]
+[2017.12.02-16.22.42:765][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/chaves]
+[2017.12.02-16.22.42:765][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/chaves" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/chaves_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-16.22.45:060][920]LogSavePackage: Save=2223.00ms
+[2017.12.02-16.22.45:060][920]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/chaves_Auto3C901DD0A483C429CDA3B96ADCDF1F2DD.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/chaves_Auto3.uasset'
+[2017.12.02-16.22.45:076][920]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/chaves_Auto3.uasset
+[2017.12.02-16.22.45:080][920]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/initialShadingGroup] ([1] browsable assets)...
+[2017.12.02-16.22.45:160][920]OBJ SavePackage:     Rendered thumbnail for [Material /Game/initialShadingGroup.initialShadingGroup]
+[2017.12.02-16.22.45:160][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/initialShadingGroup]
+[2017.12.02-16.22.45:163][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/initialShadingGroup" FILE="D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/initialShadingGroup_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2017.12.02-16.22.45:328][920]LogSavePackage: Save=91.31ms
+[2017.12.02-16.22.45:328][920]LogSavePackage: Moving 'D:/BLOCAGEMCENARIO/Saved/initialShadingGroup_Auto3E3841ABC416BC0D91F471BBC621AB1A2.tmp' to 'D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/initialShadingGroup_Auto3.uasset'
+[2017.12.02-16.22.45:349][920]LogSavePackage: Display: Finished SavePackage D:/BLOCAGEMCENARIO/Saved/Autosaves/Game/initialShadingGroup_Auto3.uasset
+[2017.12.02-16.22.45:349][920]LogFileHelpers: Auto-saving content packages took 8.320
+[2017.12.02-16.24.04:726][914]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1996).
+[2017.12.02-16.24.18:045][251]LogEditorTransaction: Undo Modificar Componente(s)
+[2017.12.02-16.24.20:007][289]LogEditorTransaction: Undo Modificar Componente(s)
+[2017.12.02-16.24.20:624][304]LogEditorTransaction: Undo Substituir material usado componente
+[2017.12.02-16.24.21:091][316]LogEditorTransaction: Undo Editar Malha Estática
+[2017.12.02-16.24.21:480][324]LogEditorTransaction: Undo Adicionar Componente
+[2017.12.02-16.24.34:420][598]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_2, Actor: /Engine/Transient.World_2:PersistentLevel.Chavescoletavel_C_0
+[2017.12.02-16.24.34:421][598]LogWorld: --- Actors Currently in /Engine/Transient.World_2:PersistentLevel ---
+[2017.12.02-16.24.34:421][598]LogWorld:   /Engine/Transient.World_2:PersistentLevel.WorldSettings
+[2017.12.02-16.24.34:421][598]LogWorld:   /Engine/Transient.World_2:PersistentLevel.Brush_2
+[2017.12.02-16.24.34:421][598]LogWorld:   /Engine/Transient.World_2:PersistentLevel.DefaultPhysicsVolume_2
+[2017.12.02-16.24.34:421][598]LogWorld:   /Engine/Transient.World_2:PersistentLevel.ParticleEventManager_2
+[2017.12.02-16.24.34:421][598]LogWorld:   NONE
+[2017.12.02-16.24.34:421][598]LogWorld:   NONE
+[2017.12.02-16.24.34:421][598]LogWorld:   NONE
+[2017.12.02-16.24.34:594][598]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.173 s
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: 
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1487]
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: Could not remove actor /Engine/Transient.World_2:PersistentLevel.Chavescoletavel_C_0 from world (check level is /Engine/Transient.World_2:PersistentLevel)
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: Stack: 
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC683E36
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC40C2D2
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC424746
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000D9822AE6
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000D8F71608
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000D8F74D23
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D5185A98
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D497E149
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D4BF3352
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D4B74BE2
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D4B777F9
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D4BEB3E5
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7CBB967
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7CE74D4
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B042BC
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7AD7145
+[2017.12.02-16.24.34:594][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B71452
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B59C92
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B4B68F
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC65B759
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC643EE1
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC65D5BB
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC63F042
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: USER32.dll!0x0000000077099BBD
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: USER32.dll!0x00000000770998C2
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC65DC29
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B7C576
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B0DE33
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D4C810EC
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D517CA83
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000D517C1E6
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000C5FEC491
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000C611C743
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000C60F4251
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000C60FBB96
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B17DD0
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B56850
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x00000000C614B189
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B04761
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7AD60BE
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7AD7CC6
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B580B7
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000D7B49B18
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC65B498
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC643EE1
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC65D5BB
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC63F042
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: USER32.dll!0x0000000077099BBD
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: USER32.dll!0x00000000770998C2
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DC65DCC6
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor.exe!0x000000003F784BE2
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor.exe!0x000000003F793970
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor.exe!0x000000003F7939EA
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor.exe!0x000000003F7A02D9
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: UE4Editor.exe!0x000000003F7A1C47
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: kernel32.dll!0x00000000771959CD
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: ntdll.dll!0x00000000772CA561
+[2017.12.02-16.24.34:595][598]LogOutputDevice: Error: 
+[2017.12.02-16.24.34:602][598]LogStats:                SubmitErrorReport -  0.000 s
